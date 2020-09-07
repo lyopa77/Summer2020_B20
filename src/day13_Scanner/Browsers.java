@@ -17,7 +17,7 @@ public class Browsers {
 
         switch(browserName){
             case "chrome":
-                System.out.println("Opening Chrome Browser");
+                System.out.println("Opening Chrome Browser now");
                 break;
 
             case "firefox":
