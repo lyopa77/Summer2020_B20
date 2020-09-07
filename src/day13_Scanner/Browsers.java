@@ -12,7 +12,7 @@ package day13_Scanner;
 public class Browsers {
 
     public static void main(String[] args) {
-        String browserName = "cybertek school rules";
+        String browserName = "cybertek school";
         // boolean, long, double, float
 
         switch(browserName){
